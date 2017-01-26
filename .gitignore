@@ -2,3 +2,4 @@ node_modules/
 /ngrok.exe
 /package.json
 .idea/
+run.cmd
